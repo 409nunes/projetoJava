@@ -17,7 +17,7 @@ class CaixaTeste {
 		String coisaB = caixaB.abrir();
 		System.out.println(coisaB);
 		
-		System.out.println("Ola mundo");
+		System.out.println("Ola mundo novo");
 	}
 
 }
