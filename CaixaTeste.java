@@ -28,7 +28,7 @@ public class CaixaTeste {
 		
 		
 		System.out.println(caixaB);
-		System.out.println("ola mundo");
+		System.out.println("ola mundo2");
 		System.out.println(listaCaixa);
 
 	}
